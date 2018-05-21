@@ -21,7 +21,7 @@ namespace inteGREAT.Utility
         /// <returns></returns>
         public static bool IsValidUser(string userName, string password, string domain)
         {
-			// Just added a comment another update
+			// Just added a comment another update and here another one too
             bool valid = false;
 
             try
